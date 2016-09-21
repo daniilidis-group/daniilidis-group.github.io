@@ -1,0 +1,51 @@
+baseurl = "https://daniilidis-group.github.io/"
+languageCode = "en-us"
+title = "GitHub Home Page of the Daniilidis Group"
+theme = "hugo-material-docs"
+metadataformat = "yaml"
+canonifyurls = true
+
+[params]
+	# General information
+	author = "Bernd Pfrommer"
+	description = "GitHub Home Page of the Daniilidis Group"
+
+	# Repository
+	provider = "GitHub"
+
+	favicon = "upenn_favicon.jpg"
+
+	permalink = "#"
+
+	# Custom assets
+	custom_css = []
+	custom_js  = []
+
+	# Syntax highlighting theme
+	highlight_css  = ""
+	logo = "upenn_favicon.jpg"
+
+	[params.palette]
+	    	primary = "blue"
+    		accent  = "light-green"
+
+	[params.font]
+		text = "Ubuntu"
+		code = "Ubuntu Mono"
+
+
+[social]
+	twitter = ""
+	github  = "berndpfrommer"
+	email   = "pfrommer@seas.upenn.edu"
+
+[[menu.main]]
+	name   = "Overview"
+	url    = ""
+	weight = 0
+
+[blackfriday]
+	smartypants	= true
+	fractions = true
+	smartDashes = true
+	plainIDAnchors = true
