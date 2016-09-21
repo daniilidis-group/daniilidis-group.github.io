@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GitHub Home Page of the Daniilidis Group</title>
+    <link>https://daniilidis-group.github.io/</link>
+    <description>Recent content on GitHub Home Page of the Daniilidis Group</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 08 Mar 2016 21:07:13 +0100</lastBuildDate>
+    <atom:link href="https://daniilidis-group.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Home Page of the Daniilidis Group</title>
+      <link>https://daniilidis-group.github.io/</link>
+      <pubDate>Tue, 08 Mar 2016 21:07:13 +0100</pubDate>
+      
+      <guid>https://daniilidis-group.github.io/</guid>
+      <description>
+
+&lt;h2 id=&#34;projects&#34;&gt;Projects&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://dreamdragon.github.io/PennAction/&#34;&gt;The Penn Action Data Set&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://daniilidis-group.github.io/penncosyvio/&#34;&gt;The PennCOSYVIO Data Set&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.cis.upenn.edu/~kostas/&#34;&gt;Home page of Prof. Kostas Daniilidis&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
